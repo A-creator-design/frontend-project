@@ -1,0 +1,208 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Crimson Text', serif;
+  background: url('https://img.freepik.com/free-photo/indian-city-buildings-scene_23-2151823127.jpg?semt=ais_hybrid&w=740') no-repeat center center fixed;
+  background-size: cover;
+  color: black;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  backdrop-filter: brightness(0.6);
+}
+.overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 0;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 20px;
+}
+
+h1 {
+  font-family: 'Marcellus', serif;
+  font-size: 3.5rem;
+  margin-bottom: 20px;
+  color: brown;
+  text-shadow: 2px 2px 5px #000;
+}
+
+body{
+    background-color:gray;
+    overflow-x: hidden;
+    
+}
+ .container{
+     width: 100%;
+    height: 100vh; 
+    position: absolute;
+    left: 140px;
+} 
+#container {
+  filter: drop-shadow(0 0 10px #00f8ff)
+          drop-shadow(0 0 20px #00f8ff)
+          drop-shadow(0 0 30px #00f8ff);
+  transition: filter 0.3s ease-in-out;
+}
+#india-map:hover {
+  filter: drop-shadow(0 0 15px #ff00ff) drop-shadow(0 0 25px #ff00ff);
+}
+
+
+.container svg{
+    width: 100%;
+    height: 100vh;
+    fill: blanchedalmond;
+    padding-top: 60px;
+    
+
+}
+.container svg path:hover{
+    cursor: pointer;
+    fill: chartreuse;
+
+}
+
+#map-container {
+    position: relative;
+    /* width: 100%; */
+    /* max-width: 900px; */
+    margin: auto;
+  }
+  
+   #data-container {
+    display: none;
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    transform: translateX(-50%);
+    
+    background-color: #fff;
+    /* border: 2px solid #888; */
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    z-index: 9999;
+  }
+  
+  #close {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    background: transparent;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+  
+   .box {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+   
+   #temple_image {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 6px;
+  }
+   #popup {
+    position: fixed;
+    top: 50px;  /* Adjust the distance from the top of the screen */
+    left: 400px; /* Adjust the distance from the left side of the screen */
+    display: none; /* Initially hidden */
+    z-index: 9999; /* Ensure the popup appears above other elements */
+    
+    
+    padding: 15px;
+    width: 300px;  
+    
+  }
+   
+  
+  #map-popup-wrapper {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+  }
+.arrow {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1100;
+}
+.show-data{
+     margin-top: 40px;
+    padding: 16px;
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(3fr);
+    grid-gap: 16px;
+    
+}
+.pbox{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.box{
+     width: 150px; 
+     height: 100px;  
+    background-color: #fcfff6;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 16px;
+}
+#close{
+  color: red;
+  font-size: 30px;
+  position: absolute;
+  right: 5px;
+  top: -30px;
+  background: none;
+}
+#close:hover{
+  cursor: pointer;
+  background-color: red;
+  color: #fcfff6;
+}
+
+#box img{
+  width:100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 10px;
+}
+

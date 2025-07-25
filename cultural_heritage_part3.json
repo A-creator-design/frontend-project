@@ -1,0 +1,583 @@
+{
+  "kerala": {
+    "music": "Carnatic, Sopana Sangeetham",
+    "dance": "Kathakali, Mohiniyattam",
+    "clothing": "Men: Mundu, Women: Kasavu Saree",
+    "temples": [
+      "Padmanabhaswamy Temple",
+      "Guruvayur Temple"
+    ],
+    "forts": [
+      "Bekal Fort"
+    ],
+    "palaces": [
+      "Mattancherry Palace"
+    ],
+    "language": "Malayalam",
+    "food": [
+      "Sadya",
+      "Puttu and Kadala"
+    ],
+    "festival": "Onam",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sree_Padmanabhaswamy_temple%2C_Thiruvananthapuram.jpg"
+  },
+  "madhya_pradesh": {
+    "music": "Hindustani Classical",
+    "dance": "Matki, Tertali",
+    "clothing": "Men: Dhoti, Women: Lugda & Odhni",
+    "temples": [
+      "Khajuraho Temples",
+      "Mahakaleshwar Temple"
+    ],
+    "forts": [
+      "Gwalior Fort"
+    ],
+    "palaces": [
+      "Jai Vilas Palace"
+    ],
+    "language": "Hindi",
+    "food": [
+      "Poha",
+      "Bhutte Ka Kees"
+    ],
+    "festival": "Diwali, Navratri",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Khajuraho-temple-india.jpg"
+  },
+  "maharashtra": {
+    "music": "Natya Sangeet",
+    "dance": "Lavani",
+    "clothing": "Men: Dhoti-Kurta, Women: Nauvari Saree",
+    "temples": [
+      "Shirdi Sai Baba",
+      "Trimbakeshwar"
+    ],
+    "forts": [
+      "Raigad Fort",
+      "Sinhagad Fort"
+    ],
+    "palaces": [
+      "Shaniwar Wada"
+    ],
+    "language": "Marathi",
+    "food": [
+      "Puran Poli",
+      "Vada Pav"
+    ],
+    "festival": "Ganesh Chaturthi",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Shirdi_Sai_Baba_Temple.jpg"
+  },
+  "manipur": {
+    "music": "Folk & Classical Manipuri",
+    "dance": "Manipuri Dance",
+    "clothing": "Men: Dhoti, Women: Phanek",
+    "temples": [
+      "Shree Govindajee Temple"
+    ],
+    "forts": [
+      "None prominent"
+    ],
+    "palaces": [
+      "Kangla Palace"
+    ],
+    "language": "Meitei (Manipuri)",
+    "food": [
+      "Eromba",
+      "Chamthong"
+    ],
+    "festival": "Yaoshang",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Shree_Govindajee_Temple.jpg"
+  },
+  "meghalaya": {
+    "music": "Tribal Folk",
+    "dance": "Wangala Dance",
+    "clothing": "Tribal dress with ornaments",
+    "temples": [
+      "Nartiang Durga Temple"
+    ],
+    "forts": [
+      "None notable"
+    ],
+    "palaces": [
+      "None notable"
+    ],
+    "language": "Khasi, Garo, English",
+    "food": [
+      "Jadoh",
+      "Dohneiiong"
+    ],
+    "festival": "Wangala",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Nartiang_Durga_Temple.jpg"
+  },
+  "mizoram": {
+    "music": "Tribal Folk Music",
+    "dance": "Cheraw (Bamboo Dance)",
+    "clothing": "Traditional tribal dress",
+    "temples": [
+      "Solomon's Temple (Aizawl)"
+    ],
+    "forts": [
+      "None notable"
+    ],
+    "palaces": [
+      "None notable"
+    ],
+    "language": "Mizo",
+    "food": [
+      "Bai",
+      "Sawhchiar"
+    ],
+    "festival": "Chapchar Kut",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Solomon%27s_Temple%2C_Aizawl.jpg"
+  },
+  "nagaland": {
+    "music": "Folk, Modern Fusion",
+    "dance": "War Dance",
+    "clothing": "Tribal attire with feathers and beads",
+    "temples": [
+      "Dimapur Shiva Temple"
+    ],
+    "forts": [
+      "Dimapur Fort"
+    ],
+    "palaces": [
+      "None notable"
+    ],
+    "language": "English, Nagamese",
+    "food": [
+      "Smoked Pork",
+      "Axone"
+    ],
+    "festival": "Hornbill Festival",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Dimapur_Shiva_Temple.jpg"
+  },
+  "odisha": {
+    "music": "Odissi Classical",
+    "dance": "Odissi",
+    "clothing": "Men: Dhoti, Women: Sambalpuri Saree",
+    "temples": [
+      "Jagannath Temple",
+      "Lingaraja Temple"
+    ],
+    "forts": [
+      "Barabati Fort"
+    ],
+    "palaces": [
+      "Kanika Palace"
+    ],
+    "language": "Odia",
+    "food": [
+      "Dalma",
+      "Chhena Poda"
+    ],
+    "festival": "Rath Yatra",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jagannath_Temple%2C_Puri.jpg"
+  },
+  "punjab": {
+    "music": "Bhangra, Giddha",
+    "dance": "Bhangra",
+    "clothing": "Men: Kurta Pajama, Women: Salwar Kameez",
+    "temples": [
+      "Golden Temple"
+    ],
+    "forts": [
+      "Gobindgarh Fort"
+    ],
+    "palaces": [
+      "Sheesh Mahal"
+    ],
+    "language": "Punjabi",
+    "food": [
+      "Makki di Roti",
+      "Sarson da Saag"
+    ],
+    "festival": "Baisakhi",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Golden_Temple_in_Amritsar_India.jpg"
+  },
+  "rajasthan": {
+    "music": "Rajasthani Folk",
+    "dance": "Ghoomar, Kalbelia",
+    "clothing": "Men: Dhoti-Kurta, Women: Ghagra Choli",
+    "temples": [
+      "Dilwara Temples",
+      "Brahma Temple"
+    ],
+    "forts": [
+      "Mehrangarh Fort",
+      "Amber Fort"
+    ],
+    "palaces": [
+      "City Palace Udaipur",
+      "Hawa Mahal"
+    ],
+    "language": "Rajasthani, Hindi",
+    "food": [
+      "Dal Baati Churma",
+      "Gatte ki Sabzi"
+    ],
+    "festival": "Desert Festival",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Dilwara_Temples.jpg"
+  },
+  "sikkim": {
+    "music": "Tibetan Folk",
+    "dance": "Chham Dance",
+    "clothing": "Bakhu",
+    "temples": [
+      "Rumtek Monastery"
+    ],
+    "forts": [
+      "None notable"
+    ],
+    "palaces": [
+      "Tsuklakhang Palace"
+    ],
+    "language": "Nepali, Bhutia, Lepcha",
+    "food": [
+      "Phagshapa",
+      "Gundruk"
+    ],
+    "festival": "Losoong",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Rumtek_Monastery.jpg"
+  },
+ "andhra_pradesh": {
+    "music": "Carnatic",
+    "dance": "Kuchipudi",
+    "clothing": "Men: Dhoti-Kurta, Women: Saree",
+    "temples": [
+      "Tirumala Venkateswara",
+      "Srisailam",
+      "Kanaka Durga"
+    ],
+    "forts": [
+      "Golkonda Fort",
+      "Kondapalli Fort"
+    ],
+    "palaces": [
+      "Chandragiri Fort Palace"
+    ],
+    "language": "Telugu",
+    "food": [
+      "Pulihora",
+      "Gongura Pachadi"
+    ],
+    "festival": "Ugadi",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Tirumala_Temple_view.jpg"
+  },
+  "arunachal_pradesh": {
+    "music": "Tribal Folk Music",
+    "dance": "Wancho Dance",
+    "clothing": "Tribal attire with beads and ornaments",
+    "temples": [
+      "Tawang Monastery"
+    ],
+    "forts": [
+      "Itanagar Fort"
+    ],
+    "palaces": [
+      "None notable"
+    ],
+    "language": "English, Hindi, Tribal dialects",
+    "food": [
+      "Thukpa",
+      "Apong"
+    ],
+    "festival": "Losar",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tawang_Monastery.jpg"
+  },
+  "assam": {
+    "music": "Bihu songs",
+    "dance": "Bihu Dance",
+    "clothing": "Men: Dhoti-Gamosa, Women: Mekhela Chador",
+    "temples": [
+      "Kamakhya Temple",
+      "Umananda Temple"
+    ],
+    "forts": [
+      "Rang Ghar"
+    ],
+    "palaces": [
+      "Kareng Ghar"
+    ],
+    "language": "Assamese",
+    "food": [
+      "Khar",
+      "Masor Tenga"
+    ],
+    "festival": "Bihu",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kamakhya_Temple_Guwahati_Assam.jpg"
+  },
+  "bihar": {
+    "music": "Folk (Bhojpuri, Maithili)",
+    "dance": "Jat-Jatin",
+    "clothing": "Men: Dhoti-Kurta, Women: Saree",
+    "temples": [
+      "Mahabodhi Temple",
+      "Vishnupad Temple"
+    ],
+    "forts": [
+      "Rohtasgarh Fort"
+    ],
+    "palaces": [
+      "Patna Sahib Gurudwara (palace-like religious site)"
+    ],
+    "language": "Hindi, Maithili, Bhojpuri",
+    "food": [
+      "Litti Chokha",
+      "Thekua"
+    ],
+    "festival": "Chhath Puja",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Mahabodhi_Temple_in_Bodh_Gaya%2C_India.jpg"
+  },
+  "chhattisgarh": {
+    "music": "Pandavani",
+    "dance": "Panthi, Raut Nacha",
+    "clothing": "Men: Dhoti, Women: Saree",
+    "temples": [
+      "Bhoramdeo Temple",
+      "Danteshwari Temple"
+    ],
+    "forts": [
+      "Kanker Fort"
+    ],
+    "palaces": [
+      "Rajnandgaon Palace"
+    ],
+    "language": "Chhattisgarhi, Hindi",
+    "food": [
+      "Chana Samosa",
+      "Faraa"
+    ],
+    "festival": "Bastar Dussehra",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Bhoramdeo_Temple_Complex.jpg"
+  },
+  "goa": {
+    "music": "Konkani folk",
+    "dance": "Fugdi, Dekhnni",
+    "clothing": "Men: Shirt & Pant, Women: Nav-Vari Saree",
+    "temples": [
+      "Mangeshi Temple",
+      "Shanta Durga Temple"
+    ],
+    "forts": [
+      "Aguada Fort",
+      "Chapora Fort"
+    ],
+    "palaces": [
+      "Palácio do Deão"
+    ],
+    "language": "Konkani, Marathi",
+    "food": [
+      "Goan Fish Curry",
+      "Bebinca"
+    ],
+    "festival": "Carnival",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shree_Mangeshi_Temple.jpg"
+  },
+  "gujarat": {
+    "music": "Sugam Sangeet",
+    "dance": "Garba, Dandiya Raas",
+    "clothing": "Men: Kediyu, Women: Chaniya Choli",
+    "temples": [
+      "Somnath Temple",
+      "Dwarkadhish Temple"
+    ],
+    "forts": [
+      "Pavagadh Fort"
+    ],
+    "palaces": [
+      "Laxmi Vilas Palace"
+    ],
+    "language": "Gujarati",
+    "food": [
+      "Dhokla",
+      "Undhiyu"
+    ],
+    "festival": "Navratri",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Somnath_temple.jpg"
+  },
+  "haryana": {
+    "music": "Ragini Folk",
+    "dance": "Phag, Dhamal",
+    "clothing": "Men: Dhoti-Kurta, Women: Ghagra-Choli",
+    "temples": [
+      "Sheetla Mata Temple",
+      "Brahma Sarovar"
+    ],
+    "forts": [
+      "Asigarh Fort"
+    ],
+    "palaces": [
+      "None prominent"
+    ],
+    "language": "Hindi, Haryanvi",
+    "food": [
+      "Bajra Khichdi",
+      "Kadhi Pakora"
+    ],
+    "festival": "Teej",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sheetla_Mata_Mandir.jpg"
+  },
+  "himachal_pradesh": {
+    "music": "Folk Ballads",
+    "dance": "Nati",
+    "clothing": "Men: Churidar & Waistcoat, Women: Woolen Sarees",
+    "temples": [
+      "Jwala Ji",
+      "Hadimba Temple"
+    ],
+    "forts": [
+      "Kangra Fort"
+    ],
+    "palaces": [
+      "Padam Palace"
+    ],
+    "language": "Hindi, Pahari",
+    "food": [
+      "Sidu",
+      "Madra"
+    ],
+    "festival": "Kullu Dussehra",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jwalamukhi_temple.jpg"
+  },
+  "jharkhand": {
+    "music": "Tribal Folk",
+    "dance": "Chhau Dance",
+    "clothing": "Tribal attire",
+    "temples": [
+      "Baidyanath Dham",
+      "Jagannath Temple"
+    ],
+    "forts": [
+      "Palamu Fort"
+    ],
+    "palaces": [
+      "None notable"
+    ],
+    "language": "Hindi, Nagpuri, Santhali",
+    "food": [
+      "Thekua",
+      "Chilka Roti"
+    ],
+    "festival": "Sarhul",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Baidyanath_Dham.jpg"
+  },
+  "karnataka": {
+    "music": "Carnatic",
+    "dance": "Yakshagana",
+    "clothing": "Men: Panche, Women: Ilkal Saree",
+    "temples": [
+      "Virupaksha Temple",
+      "Chamundeshwari Temple"
+    ],
+    "forts": [
+      "Bidar Fort",
+      "Chitradurga Fort"
+    ],
+    "palaces": [
+      "Mysore Palace"
+    ],
+    "language": "Kannada",
+    "food": [
+      "Bisi Bele Bath",
+      "Mysore Pak"
+    ],
+    "festival": "Dasara",
+    "temple_image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Virupaksha_Temple_at_Hampi.jpg"
+  },
+   "tamil_nadu": {
+      "music": "Carnatic Music",
+      "dance": "Bharatanatyam",
+      "clothing": "Men: Veshti, Women: Kanchipuram Saree",
+      "temples": ["Meenakshi Temple", "Brihadeeswara Temple"],
+      "forts": ["Gingee Fort"],
+      "palaces": ["Thirumalai Nayakkar Mahal"],
+      "language": "Tamil",
+      "food": ["Sambar", "Rasam", "Pongal"],
+      "festival": "Pongal",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Meenakshi_Temple_Overview.jpg"
+    },
+    "telangana": {
+      "music": "Folk (Janapada Geethalu)",
+      "dance": "Perini Sivatandavam",
+      "clothing": "Men: Panche, Women: Saree",
+      "temples": ["Yadagirigutta", "Thousand Pillar Temple"],
+      "forts": ["Golconda Fort"],
+      "palaces": ["Chowmahalla Palace"],
+      "language": "Telugu, Urdu",
+      "food": ["Hyderabadi Biryani", "Sakinalu"],
+      "festival": "Bathukamma",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Yadagirigutta_Temple.jpg"
+    },
+    "tripura": {
+      "music": "Tribal and Bengali Folk",
+      "dance": "Hojagiri",
+      "clothing": "Men: Rikutu Gamcha, Women: Rignai",
+      "temples": ["Tripura Sundari Temple"],
+      "forts": ["Ujjayanta Palace"],
+      "palaces": ["Ujjayanta Palace"],
+      "language": "Bengali, Kokborok",
+      "food": ["Mui Borok", "Gudok"],
+      "festival": "Kharchi Puja",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Tripura_Sundari_Temple.jpg"
+    },
+    "uttar_pradesh": {
+      "music": "Hindustani Classical",
+      "dance": "Kathak",
+      "clothing": "Men: Kurta-Pajama, Women: Saree/Salwar",
+      "temples": ["Kashi Vishwanath", "Banke Bihari"],
+      "forts": ["Agra Fort"],
+      "palaces": ["Fatehpur Sikri"],
+      "language": "Hindi, Urdu",
+      "food": ["Kachori", "Tunday Kababi"],
+      "festival": "Diwali, Holi",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kashi_Vishwanath_Temple.jpg"
+    },
+    "uttarakhand": {
+      "music": "Garhwali Folk",
+      "dance": "Barada Nati",
+      "clothing": "Woolen garments",
+      "temples": ["Kedarnath", "Badrinath"],
+      "forts": ["Parmar Forts (old hill forts)"],
+      "palaces": ["Tehri Garhwal Palace"],
+      "language": "Hindi, Garhwali, Kumaoni",
+      "food": ["Kafuli", "Chainsoo"],
+      "festival": "Kumbh Mela, Ganga Dussehra",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Kedarnath_Temple_in_2014.jpg"
+    },
+    "west_bengal": {
+      "music": "Rabindra Sangeet",
+      "dance": "Chhau, Gaudiya Nritya",
+      "clothing": "Men: Dhoti-Kurta, Women: Tant Saree",
+      "temples": ["Dakshineswar Kali Temple", "Kalighat"],
+      "forts": ["Fort William"],
+      "palaces": ["Cooch Behar Palace"],
+      "language": "Bengali",
+      "food": ["Shorshe Ilish", "Rosogolla"],
+      "festival": "Durga Puja",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dakshineswar_Kali_Temple_-_Kolkata_2011-02-13_2239.JPG"
+    },
+    "delhi": {
+      "music": "Sufi, Hindustani",
+      "dance": "Kathak",
+      "clothing": "Modern Indian & Traditional",
+      "temples": ["Akshardham", "Lotus Temple"],
+      "forts": ["Red Fort"],
+      "palaces": ["Rashtrapati Bhavan"],
+      "language": "Hindi, Urdu, Punjabi",
+      "food": ["Chole Bhature", "Parathas"],
+      "festival": "Diwali, Eid",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Akshardham_temple_Delhi.jpg"
+    },
+    "jammu_kashmir": {
+      "music": "Sufiana Kalam",
+      "dance": "Rouf, Dumhal",
+      "clothing": "Pheran (woolen robe)",
+      "temples": ["Amarnath Temple", "Raghunath Temple"],
+      "forts": ["Hari Parbat Fort"],
+      "palaces": ["Mubarak Mandi Palace"],
+      "language": "Urdu, Kashmiri, Dogri",
+      "food": ["Rogan Josh", "Modur Pulao"],
+      "festival": "Eid, Baisakhi, Navroz",
+      "temple_image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Amarnath_Cave_Temple.jpg"
+    }
+  }
+  

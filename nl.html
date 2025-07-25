@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nagaland- Culture & Heritage</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&family=Open+Sans&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      background: #fdfaf6;
+      color: black;
+      background-image: url('../../images/bg/palm-leaves-pattern.png');
+      background-repeat: no-repeat;
+      background-position: center top;
+      background-size: cover;
+    }
+
+    header {
+      background: linear-gradient(to right, #ffcc70, #ff7e5f);
+      text-align: center;
+      padding: 2rem 1rem;
+      color: black;
+      background-image: url('images/temple-pattern.png');
+      background-repeat: repeat;
+      background-size: contain;
+    }
+
+    header h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+      font-style: italic;
+    }
+
+    .hero-image img {
+      width: 100%;
+      height: auto;
+      display: block;
+    }
+
+    .cultural-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+      padding: 2rem;
+      background: #fff8f0;
+    }
+
+    .card {
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 1.5rem;
+      transition: transform 0.3s ease-in-out;
+    }
+    .speaker {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #ff7e5f;
+}
+
+
+    .card:hover {
+      transform: translateY(-10px);
+    }
+
+    .card h2 {
+      font-size: 1.5rem;
+      color: #ff7e5f;
+    }
+
+    .card p {
+      font-size: 1rem;
+      color: #333;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      background: #fff1e6;
+    }
+
+    footer a {
+      text-decoration: none;
+      color: #d94b2b;
+      font-weight: bold;
+    }
+
+    /* .rangoli-border {
+      border: 10px solid #ff7e5f;
+      border-radius: 12px;
+      padding: 2rem;
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    } */
+    .rangoli-border {
+  border: 10px solid #ff7e5f;
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  width: 200px; /* Fixed width */
+  height: 250px; /* Fixed height */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.rangoli-border h2 {
+  font-size: 1.2rem;
+  color: #ff7e5f;
+  margin-bottom: 1rem;
+}
+
+.rangoli-border p {
+  font-size: 1rem;
+  color: #333;
+  flex-grow: 1; /* Allows for text to grow if necessary but doesn't overflow */
+  margin-bottom: 1rem;
+}
+
+.actions {
+  text-align: center;
+}
+
+.actions a {
+  text-decoration: none;
+  color: #ff7e5f;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  margin: 5px 0;
+  display: inline-block;
+  background-color: #fff;
+  border: 2px solid #ff7e5f;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.actions a:hover {
+  background-color: #ff7e5f;
+  color: #fff;
+}
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Nagaland</h1>
+    <p>The Land of Warrior Spirit</p>
+  </header>
+
+
+
+  <section class="cultural-grid">
+    <div class="card rangoli-border" >
+     <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🌸 Dance</h2>
+      <p>War Dance:The Naga War Dance is a traditional 
+        performance that reflects the bravery,
+         pride, and warrior legacy of the Naga tribes.</p>
+      <div class="actions">
+        <a href="https://en.wikipedia.org/wiki/War_dance" target="_blank" class="view-more">View More</a><br>
+        <a href="https://youtu.be/Dak10LaZlfA" target="_blank" class="watch-video">Watch Video</a>
+      </div>
+     </div>
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+       <h2>🎶 Music</h2>
+      <p>Tribal Folk:Nagaland’s tribal folk music is a deep reflection of its
+         oral traditions, community life, and ancestral pride. </p>
+        <div class="actions">
+          <a href="https://youtu.be/Y50jI2bsoIU?list=PL6uYtha1KiqUyhfYhTNdjjzkNIkQgSlWM" target="_blank" class="watch-video">Watch Video</a>
+        </div>
+      </div>
+
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🛕 Temples</h2>
+      <p>Dikhu Valley Shrine,Notun Bosti Church Temple,
+        Tetsuo Memorial</p>
+      <div class="actions">
+        <a href=" temples.html" target="_blank" class="view-more">View More</a><br>
+    
+      </div>
+    </div>
+
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+       <h2>👗 Clothing</h2><p>Angami Robes</p>
+      <div class="actions">
+        <a href="https://en.wikipedia.org/wiki/Angami_Naga" target="_blank" class="view-more">View More</a><br>
+      </div>
+    </div>
+
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🗣️ Language</h2><p>English, Nagamese</p></div>
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🎉 Festivals</h2><p>Hornbill, Sekrenyi</p>
+      <div class="actions">
+        <a href="festivals.html" target="_blank" class="view-more">View More</a><br>
+        
+      </div>
+    </div>
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🍛 Food</h2><p>Smoked Pork, Bamboo Stew</p>
+      <div class="actions">
+        <a href="food.html" target="_blank" class="view-more">View More</a><br>
+        
+      </div>
+    </div>
+
+    <div class="card rangoli-border">
+      <span class="speaker" onclick="speakContent(this)">🔊</span>
+      <h2>🏛️ Marvels</h2><p> Kohima War Cemetery,Japfu Peak</p>
+      <div class="actions">
+        <a href="marvals.html" target="_blank" class="view-more">View More</a><br>
+        
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <a href="../../index.html">← Back to Interactive Map</a>
+  </footer>
+  <script>
+    let currentUtterance = null;
+  
+    function speakContent(element) {
+      if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel(); // stop if already speaking
+        return;
+      }
+  
+      const parentCard = element.closest('.card');
+      const text = parentCard.querySelector('p')?.innerText || '';
+      currentUtterance = new SpeechSynthesisUtterance(text);
+      currentUtterance.lang = 'en-US';
+      window.speechSynthesis.speak(currentUtterance);
+    }
+  </script>
+  
+  
+  
+
+</body>
+</html>

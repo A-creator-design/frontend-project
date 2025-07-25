@@ -1,0 +1,473 @@
+{
+  "ap": {
+    "state":"Andhra Pradesh",
+    "language":"Telugu",
+    "dance":"Kuchipudi",
+    "music": "Carnatic",
+    "clothing": "Dhoti & Saree",
+    "food": "Pulihora, Pesarattu",
+    "festival":"Ugadi, Sankranti",
+    "temples": [
+      "Tirumala Venkateswara",
+      "Simhachalam",
+      "Kanaka Durga"
+    ],
+    "temple_image": "images/temples/ap.jpg",
+    "details_url": "pages/ap/ap.html"
+  },
+   "ar": {
+      "state": "Arunachal Pradesh",
+      "language": "Nyishi, Adi, English",
+      "dance": "Ponung",
+      "music": "Tribal Folk",
+      "clothing": "Traditional Wraps",
+      "food": "Thukpa, Momos",
+      "festivals": "Losar, Solung",
+      "temples": [
+        "Malinithan",
+        "Parshuram Kund",
+        "Akashiganga"
+      ],
+      "temple_image": "images/temples/ar.jpg",
+      "details_url": "pages/ar/ar.html"
+    },
+    "as": {
+      "state": "Assam",
+      "language": "Assamese",
+      "dance": "Bihu",
+      "music": "Borgeet",
+      "clothing": "Mekhela Sador",
+      "food": "Khar, Masor Tenga",
+      "festivals": "Bihu, Ambubachi Mela",
+      "temples": [
+        "Kamakhya",
+        "Umananda",
+        "Navagraha"
+      ],
+      "temple_image": "images/temples/as.jpg",
+      "details_url": "pages/as.html"
+    },
+    "br": {
+      "state": "Bihar",
+      "language": "Hindi, Maithili",
+      "dance": "Jat-Jatin",
+      "music": "Folk Bhojpuri",
+      "clothing": "Dhoti & Saree",
+      "food": "Litti Chokha, Khichdi",
+      "festivals": "Chhath, Sonepur Mela",
+      "temples": [
+        "Mahabodhi",
+        "Vishnupad",
+        "Mundeshwari"
+      ],
+      "temple_image": "images/temples/br.jpg",
+      "details_url": "pages/br.html"
+    },
+    "ca":{
+      "name": "Bambleswar Mahadev Temple",
+      "location": "Dholka, Gujarat",
+      "state": "Gujarat",
+      "period": "Medieval Era (est. 12th–13th century)",
+      "dynasty": "Local Rulers (possibly Solanki influence)",
+      "style": "Nagara",
+      "materials": ["Sandstone"],
+      "features": [
+        "Tall shikhara (spire) over sanctum",
+        "Stone-carved pillars",
+        "Ornate mandapa"
+      ],
+      "significance": "Dedicated to Lord Shiva, worshipped as Mahadev; popular during Mahashivratri",
+      "imageUrl": "images/bambleswar.jpg",
+      "isUNESCO": false
+    },
+    
+    "ct": {
+      "state": "Chhattisgarh",
+      "language": "Chhattisgarhi",
+      "dance": "panthi",
+      "music": "Folk Tribal",
+      "clothing": "Lugda, Dhoti",
+      "food": "Chana Samosa, Faraa",
+      "festivals": "Bastar Dussehra, Hareli",
+      "temples": [
+        "Bambleshwari",
+        "Danteshwari",
+        "Rajiv Lochan"
+      ],
+      "temple_image": "images/temples/ct.jpg",
+      "details_url": "pages/ct.html"
+    },
+    "ga": {
+      "state": "Goa",
+      "language": "Konkani",
+      "dance": "Fugdi",
+      "music": "Western-influenced Folk",
+      "clothing": "Pano Bhaju & Kashti",
+      "food": "Fish Curry, Bebinca",
+      "festivals": "Carnival, Shigmo",
+      "temples": [
+        "Shanta Durga",
+        "Mangeshi Temple",
+        "Mahadev Temple"
+      ],
+      "temple_image": "images/temples/ga.jpg",
+      "details_url": "pages/ga.html"
+    },
+    "gj": {
+      "state": "Gujarat",
+      "language": "Gujarati",
+      "dance": "Garba, Dandiya",
+      "music": "Sugam Sangeet",
+      "clothing": "Chaniya Choli, Kediyu",
+      "food": "Dhokla, Thepla",
+      "festivals": "Navratri, Uttarayan",
+      "temples": [
+        "Somnath",
+        "Dwarkadhish",
+        "Ambaji"
+      ],
+      "temple_image": "images/temples/gj.jpg",
+      "details_url": "pages/gj.html"
+    },
+    "hr": {
+      "state": "Haryana",
+      "language": "Hindi, Haryanvi",
+      "dance": "Phag, Dhamal",
+      "music": "Haryanvi Folk",
+      "clothing": "Dhoti Kurta, Ghagra",
+      "food": "Bajra Khichdi, Churma",
+      "festivals": "Teej, Gangore",
+      "temples": [
+        "Sheetala Mata",
+        "Jyotisar",
+        "Brahma Sarovar"
+      ],
+      "temple_image": "images/temples/hr.jpg",
+      "details_url": "pages/hr.html"
+    },
+    "hp": {
+      "state": "Himachal Pradesh",
+      "language": "Hindi, Pahari",
+      "dance": "Nati",
+      "music": "Himachali Folk",
+      "clothing": "Chola Dora, Salwar",
+      "food": "Chana Madra, Dham",
+      "festivals": "Kullu Dussehra, Shivratri",
+      "temples": [
+        "Jwala Ji",
+        "Chintpurni",
+        "Baijnath"
+      ],
+      "temple_image": "images/temples/hp.jpg",
+      "details_url": "pages/hp.html"
+    },
+    "jh": {
+      "state": "Jharkhand",
+      "language": "Hindi, Tribal",
+      "dance": "Paika, Chhau",
+      "music": "Tribal Folk",
+      "clothing": "Lungi, Saree",
+      "food": "Thekua, Chilka Roti",
+      "festivals": "Sarhul, Karma",
+      "temples": [
+        "Parasnath",
+        "Baidhyanath",
+        "Jagannath Temple"
+      ],
+      "temple_image": "images/temples/jh.jpg",
+      "details_url": "pages/jh.html"
+    },
+    "ka": {
+      "state": "Karnataka",
+      "language": "Kannada",
+      "dance": "Yakshagana",
+      "music": "Carnatic",
+      "clothing": "Lungi, Saree",
+      "food": "Bisi Bele Bath, Ragi Mudde",
+      "festivals": "Dasara, Ugadi",
+      "temples": [
+        "Murudeshwar",
+        "Virupaksha",
+        "Chamundeshwari"
+      ],
+      "temple_image": "images/temples/ka.jpg",
+      "details_url": "pages/ka.html"
+    },
+    "kl": {
+      "state": "Kerala",
+      "language": "Malayalam",
+      "dance": "Kathakali, Mohiniyattam",
+      "music": "Carnatic",
+      "clothing": "Mundu, Saree",
+      "food": "Sadya, Appam",
+      "festivals": "Onam, Vishu",
+      "temples": [
+        "Padmanabhaswamy",
+        "Guruvayur",
+        "Sabarimala"
+      ],
+      "temple_image": "images/temples/kl.jpg",
+      "details_url": "pages/kl.html"
+    },
+    "mp": {
+      "state": "Madhya Pradesh",
+      "language": "Hindi",
+      "dance": "Matki, Tertali",
+      "music": "Tribal Folk",
+      "clothing": "Salwar Kameez, Dhoti",
+      "food": "Poha, Bhutte ka Kees",
+      "festivals": "Lokrang, Diwali",
+      "temples": [
+        "Mahakaleshwar",
+        "Kandariya Mahadev",
+        "Omkareshwar"
+      ],
+      "temple_image": "images/temples/mp.jpg",
+      "details_url": "pages/mp.html"
+    },
+  
+  
+    "mh": {
+      "state": "Maharashtra",
+      "language": "Marathi",
+      "dance": "Lavani",
+      "music": "Natya Sangeet",
+      "clothing": "Nauvari Saree, Dhoti Kurta",
+      "food": "Puran Poli, Vada Pav",
+      "festivals": "Ganesh Chaturthi, Gudi Padwa",
+      "temples": [
+        "Shirdi",
+        "Siddhivinayak",
+        "Trimbakeshwar"
+      ],
+      "temple_image": "images/temples/mh.jpg",
+      "details_url": "pages/mh.html"
+    },
+    "mn": {
+      "state": "Manipur",
+      "language": "Meitei (Manipuri)",
+      "dance": "Ras Lila",
+      "music": "Manipuri Folk",
+      "clothing": "Innaphi & Phanek",
+      "food": "Eromba, Chamthong",
+      "festivals": "Yaoshang, Lai Haraoba",
+      "temples": [
+        "Shree Govindajee",
+        "Sanamahi",
+        "Bishnupur Temple"
+      ],
+      "temple_image": "images/temples/mn.jpg",
+      "details_url": "pages/mn.html"
+    },
+    "ml": {
+      "state": "Meghalaya",
+      "language": "Khasi, Garo, English",
+      "dance": "Shad Suk Mynsiem",
+      "music": "Tribal Folk",
+      "clothing": "Jainsem, Dakmanda",
+      "food": "Jadoh, Dohneiiong",
+      "festivals": "Wangala, Nongkrem",
+      "temples": [
+        "Nartiang Durga",
+        "Siju Cave Shrine",
+        "Laitlum Canyons Shrine"
+      ],
+      "temple_image": "images/temples/ml.jpg",
+      "details_url": "pages/ml.html"
+    },
+    "mz": {
+      "state": "Mizoram",
+      "language": "Mizo",
+      "dance": "Cheraw",
+      "music": "Tribal Folk",
+      "clothing": "Puan, Vakiria",
+      "food": "Bai, Bamboo Shoot Curry",
+      "festivals": "Chapchar Kut, Mim Kut",
+      "temples": [
+        "Solomon Temple",
+        "Khawnglung Run",
+        "Saikuti Hall Shrine"
+      ],
+      "temple_image": "images/temples/mz.jpg",
+      "details_url": "pages/mz.html"
+    },
+    "nl": {
+      "state": "Nagaland",
+      "language": "English, Nagamese",
+      "dance": "War Dance",
+      "music": "Tribal Folk",
+      "clothing": "Angami Robes",
+      "food": "Smoked Pork, Bamboo Stew",
+      "festivals": "Hornbill, Sekrenyi",
+      "temples": [
+        "Dikhu Valley Shrine",
+        "Notun Bosti Church Temple",
+        "Tetsuo Memorial"
+      ],
+      "temple_image": "images/temples/nl.jpg",
+      "details_url": "pages/nl.html"
+    },
+    "or": {
+      "state": "Odisha",
+      "language": "Odia",
+      "dance": "Odissi",
+      "music": "Odissi Classical",
+      "clothing": "Sambalpuri Saree",
+      "food": "Dalma, Rasgulla",
+      "festivals": "Rath Yatra, Nuakhai",
+      "temples": [
+        "Jagannath",
+        "Lingaraj",
+        "Sun Temple"
+      ],
+      "temple_image": "images/temples/od.jpg",
+      "details_url": "pages/od.html"
+    },
+    "pb": {
+      "state": "Punjab",
+      "language": "Punjabi",
+      "dance": "Bhangra, Giddha",
+      "music": "Punjabi Folk, Sufi",
+      "clothing": "Salwar Kameez, Kurta Pajama",
+      "food": "Makki di Roti, Sarson da Saag",
+      "festivals": "Lohri, Baisakhi",
+      "temples": [
+        "Golden Temple",
+        "Durgiana",
+        "Kila Raipur Temple"
+      ],
+      "temple_image": "images/temples/pb.jpg",
+      "details_url": "pages/pb.html"
+    },
+    "rj": {
+      "state": "Rajasthan",
+      "language": "Rajasthani, Hindi",
+      "dance": "Ghoomar, Kalbeliya",
+      "music": "Rajasthani Folk",
+      "clothing": "Ghagra Choli, Dhoti Kurta",
+      "food": "Dal Baati Churma, Gatte ki Sabzi",
+      "festivals": "Desert Festival, Teej",
+      "temples": [
+        "Dilwara",
+        "Brahma Temple",
+        "Karni Mata"
+      ],
+      "temple_image": "images/temples/rj.jpg",
+      "details_url": "pages/rj.html"
+    },
+    "sk": {
+      "state": "Sikkim",
+      "language": "Nepali, English",
+      "dance": "Maruni",
+      "music": "Bhutia Folk",
+      "clothing": "Kho",
+      "food": "Phagshapa, Gundruk",
+      "festivals": "Saga Dawa, Losoong",
+      "temples": [
+        "Rumtek",
+        "Tashiding",
+        "Pemayangtse"
+      ],
+      "temple_image": "images/temples/sk.jpg",
+      "details_url": "pages/sk.html"
+    },
+    "tn": {
+      "state": "Tamil Nadu",
+      "language": "Tamil",
+      "dance": "Bharatanatyam",
+      "music": "Carnatic",
+      "clothing": "Veshti, Saree",
+      "food": "Sambar, Dosa",
+      "festivals": "Pongal, Karthigai Deepam",
+      "temples": [
+        "Meenakshi",
+        "Rameswaram",
+        "Brihadeeswarar"
+      ],
+      "temple_image":  "images/meenakshi_temple.jpg",
+
+      "details_url": "pages/tn.html"
+    },
+    "tg": {
+      "state": "Telangana",
+      "language": "Telugu, Urdu",
+      "dance": "Perini",
+      "music": "Folk Telangana",
+      "clothing": "Pancha, Saree",
+      "food": "Hyderabadi Biryani, Sarva Pindi",
+      "festivals": "Bathukamma, Bonalu",
+      "temples": [
+        "Yadadri",
+        "Thousand Pillar Temple",
+        "Bhadrachalam"
+      ],
+      "temple_image":"images/temples/ap.jpg",
+      "details_url": "pages/tg.html"
+    },
+    
+    "tr": {
+      "state": "Tripura",
+      "language": "Bengali, Kokborok",
+      "dance": "Hojagiri",
+      "music": "Tripuri Folk",
+      "clothing": "Rignai & Risa",
+      "food": "Mui Borok, Bamboo Shoot Curry",
+      "festivals": "Garia Puja, Kharchi",
+      "temples": [
+        "Tripura Sundari",
+        "Bhuvaneshwari",
+        "Fourteen Gods"
+      ],
+      "temple_image": "images/temples/tr.jpg",
+      "details_url": "pages/tr.html"
+    },
+    "up": {
+      "state": "Uttar Pradesh",
+      "language": "Hindi, Urdu",
+      "dance": "Kathak",
+      "music": "Hindustani Classical",
+      "clothing": "Kurta Pajama, Saree",
+      "food": "Kachori, Tunday Kabab",
+      "festivals": "Diwali, Holi",
+      "temples": [
+        "Kashi Vishwanath",
+        "Banke Bihari",
+        "Ayodhya Ram Mandir"
+      ],
+      "temple_image": "images/temples/up.jpg",
+      "details_url": "pages/up.html"
+    },
+    "ut": {
+      "state": "Uttarakhand",
+      "language": "Hindi, Garhwali",
+      "dance": "Langvir Nritya",
+      "music": "Garhwali Folk",
+      "clothing": "Ghagra Choli, Kurta",
+      "food": "Aloo Ke Gutke, Kafuli",
+      "festivals": "Kumbh Mela, Ganga Dussehra",
+      "temples": [
+        "Kedarnath",
+        "Badrinath",
+        "Jageshwar"
+      ],
+      "temple_image": "images/temples/uk.jpg",
+      "details_url": "pages/uk.html"
+    },
+    "wb": {
+      "state": "West Bengal",
+      "language": "Bengali",
+      "dance": "Chhau, Gaudiya Nritya",
+      "music": "Rabindra Sangeet, Baul",
+      "clothing": "Dhoti Kurta, Saree",
+      "food": "Macher Jhol, Sandesh",
+      "festivals": "Durga Puja, Poila Boishakh",
+      "temples": [
+        "Kalighat",
+        "Dakshineswar",
+        "Tarapith"
+      ],
+      "temple_image": "images/temples/wb.jpg",
+      "details_url": "pages/wb.html"
+    }
+  }
+  
